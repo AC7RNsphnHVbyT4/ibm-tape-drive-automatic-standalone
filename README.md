@@ -16,6 +16,11 @@ https://www.ti.com/product/THVD1451
 ![image](https://user-images.githubusercontent.com/98891123/152162314-c49de7ca-9f51-4cc7-95e9-9b17d5773d2e.png)
 ![image](https://user-images.githubusercontent.com/98891123/152162334-05ad65c0-9cbd-4c85-b72e-97fa1ea07222.png)
 
+Perspective from the Drive Side ( Issue #1) 
+
+![image](https://user-images.githubusercontent.com/98891123/152176847-c555ccfa-2e87-47ef-961c-52edfab7a02a.png)
+![image](https://user-images.githubusercontent.com/98891123/152177129-d5e34251-cee9-4cab-a584-445cd794601d.png)
+
 
 Following the Electrical Pathways  I was assuming the following cabling:
 - Receive:
