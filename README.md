@@ -18,8 +18,23 @@ https://www.ti.com/product/THVD1451
 
 Perspective from the Drive Side ( Issue #1) 
 
+(The drive is Top Down on these pictures, the Top is on the table)
 ![image](https://user-images.githubusercontent.com/98891123/152176847-c555ccfa-2e87-47ef-961c-52edfab7a02a.png)
 ![image](https://user-images.githubusercontent.com/98891123/152177129-d5e34251-cee9-4cab-a584-445cd794601d.png)
+
+(The drive is in the position bottom to table, perspective from above)
+![image](https://user-images.githubusercontent.com/98891123/152178767-afe7a338-b761-403a-8030-fbe98d8112f6.png)
+Cabeling colors are from top to bottom:
+- white
+- grey
+- purple
+- blue
+- green
+- yellow
+- orange
+- red
+- brown
+- black
 
 
 Following the Electrical Pathways  I was assuming the following cabling:
