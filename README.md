@@ -145,7 +145,7 @@ Now the drive is rebooting and we can see the Link online. This qaucli is a comm
 
 ![image](https://user-images.githubusercontent.com/98891123/152163541-30075b85-7de1-441d-9a2a-ce39d1bea7b2.png)
 
-Also lsscsi is outputting the the Tape now. 
+Also lsscsi is outputting the Tape now. 
 
 ![image](https://user-images.githubusercontent.com/98891123/152163611-95b1c297-5de1-4b06-9e24-9f1be23f8520.png)
 
